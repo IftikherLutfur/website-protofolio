@@ -9,10 +9,12 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 nav >ul{
     display: flex;
     align-items: center;
+   
 }
 nav li{
     list-style: none;
@@ -33,4 +35,12 @@ nav a:hover{
     border-color: orange;
     font-weight: 700px;
     padding: 16px 34px;
+}
+.header{
+    background-color: bisque;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
 }
