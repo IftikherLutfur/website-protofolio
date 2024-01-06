@@ -150,3 +150,20 @@ main section{
 .Paragraph{
     text-align:center ;
 }
+.social-links{
+    margin-left: 45%;
+    margin-bottom: 50px;
+    
+}
+.social-links a{
+margin-right: 25px;
+}
+.text{
+    margin-top: 0px;
+}
+.trust{
+    margin-bottom: 0px;
+}
+.img{
+    background-color: rgb(255, 145, 0);
+}
