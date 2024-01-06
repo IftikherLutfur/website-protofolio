@@ -1,0 +1,36 @@
+.title{
+    font-size: 50px;
+    font-weight: 800p;
+}
+.text-primary{
+    color: orange;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav >ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+nav a:hover{
+    background-color: rgb(29, 243, 90);
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border-color: orange;
+    font-weight: 700px;
+    padding: 16px 34px;
+}
