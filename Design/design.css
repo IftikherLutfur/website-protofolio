@@ -88,3 +88,27 @@ justify-content: space-between;
 #olo{
     padding: 20px 130px;
 }
+.ullu{
+    display: flex;
+    padding: 0px 120px;
+    gap: 20px;
+}
+.skill-title{
+    margin-bottom: 0px;
+}
+.skills-container{
+    padding: 20px;
+    border-radius: 5px;
+    background: wheat;
+    box-shadow: black;
+}
+main section{
+    margin-top: 100px;
+}
+.rcolum{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+   
+}
