@@ -137,3 +137,13 @@ main section{
     margin-top: 30px;
     margin-bottom: 15px;
 }
+
+
+.section-title{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.title{
+    font-size: 30px;
+}
